@@ -833,4 +833,4 @@ Queue adalah struktur data dengan prinsip FIFO, di mana elemen ditambahkan di be
 
 ## Referensi
 
-[1] Triase. (2020). Diktat Edisi Revisi: STRUKTUR DATA. Medan: UNIVERSTAS ISLAM NEGERI SUMATERA UTARA MEDAN.
+[1] Modul 8 (Queue), Praktikum Struktur Data. Fakultas Informatika, Telkom University.
